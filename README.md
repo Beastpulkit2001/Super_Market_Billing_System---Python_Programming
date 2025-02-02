@@ -1,5 +1,7 @@
 # Super_Market_Billing_System---Python_Programming
 Python Programming Project
+<h1>Hi 👋, I'm Pulkit Sharma</h1>
+<h3>A passionate Data Analyst from India</h3>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,6 +55,9 @@ Python Programming Project
         <li><strong>Bill Summary:</strong> At the end of the purchase, a summary is displayed, showing customer details, the products purchased, discount applied, and the total amount to be paid.</li>
         <li><strong>Repeat for Multiple Customers:</strong> After generating the bill for a customer, the system allows you to add more customers and generate separate bills.</li>
     </ul>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastpulkit2001&show_icons=true&locale=en&layout=compact" alt="beastpulkit2001" /></p>
 </body>
 </html>
